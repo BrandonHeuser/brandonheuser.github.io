@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Sometimes I like to lift thousands of pounds for fun. Here's some photos of me doing so.
 
-![Image](src)   ![Image](src)
+![Image](C:\Users\sauceman\Pictures\Dead500.jpg)   ![Image](src)
 
 ### Support or Contact
 
