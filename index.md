@@ -1,4 +1,4 @@
-## Welcome to my page
+## Brandonheuser.github.io
 
 You can use the [editor on GitHub](https://github.com/BrandonHeuser/brandonheuser.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
