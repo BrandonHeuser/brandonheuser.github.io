@@ -30,9 +30,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## About me
 
-Sometimes I like to lift thousands of pounds for fun. Here's some photos of me doing so.
+Sometimes I like to lift thousands of pounds for fun.
 
-![C:\Users\sauceman\Pictures\Dead500.jpg](src)   ![Image](src)
+![Image](Dead500.jpeg)
 
 ### Support or Contact
 
