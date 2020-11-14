@@ -1,12 +1,8 @@
 ## brandonheuser.github.io
 
-You can use the [editor on GitHub](https://github.com/BrandonHeuser/brandonheuser.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently attending some online courses learning HTML/CSS and JavaScripting, I hope to have some exciting new projects up soon for your viewing pleasure!
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -26,11 +22,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ## About me
 
-Sometimes I like to lift thousands of pounds for fun.
+When I'm not getting my fingers dirty on the keyboard, I enjoy spending my time traveling with friends or to see family. Snowboarding, snorkling around the world and fast cars are amoung my adrenaline rushes but quiet time in the wilderness watching the buffalo graze is equally important to me. 
+
+Also, sometimes I like to lift thousands of pounds for fun.
 
 ![Image](Dead500.jpeg)
 
