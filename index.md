@@ -1,8 +1,10 @@
 ## brandonheuser.github.io
 
 Currently attending some online courses learning HTML/CSS and JavaScripting, I hope to have some exciting new projects up soon for your viewing pleasure!
+## Projects:
+-[RHEL bash scripting:](https://brandonheuser.github.io/firstbashscript.sh) _Learning_ Working on my RHCSA and learning bash shell scripting.
 
-### Markdown
+### Markdown notes
 
 ```markdown
 Syntax highlighted code block
@@ -29,7 +31,5 @@ When I'm not getting my fingers dirty on the keyboard, I enjoy spending my time 
 Also, sometimes I like to lift thousands of pounds for fun.
 
 ![Image](Dead500.jpeg)
-
-### placeholder
 
 
