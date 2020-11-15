@@ -2,7 +2,7 @@
 
 Currently attending some online courses learning HTML/CSS and JavaScripting, I hope to have some exciting new projects up soon for your viewing pleasure!
 ## Projects:
--[RHEL bash scripting:](https://brandonheuser.github.io/firstbashscript.sh) _Learning_ Working on my RHCSA and learning bash shell scripting.
+-RHEL bash scripting [firstbashscript:](https://brandonheuser.github.io/firstbashscript.sh) (_Professional Development_) I am working on my RHCSA and learning bash shell scripting.
 
 ### Markdown notes
 
