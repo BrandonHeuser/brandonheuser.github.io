@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 ## About me
 
-When I'm not getting my fingers dirty on the keyboard, I enjoy spending my time traveling with friends or to see family. Snowboarding, snorkling around the world and fast cars are amoung my adrenaline rushes but quiet time in the wilderness watching the buffalo graze is equally important to me. 
+When I'm not getting my fingers dirty on the keyboard, I enjoy spending my time traveling with friends or to see family. Snowboarding, snorkling around the world and fast cars are among my adrenaline rushes but quiet time in the wilderness watching the buffalo graze is equally important to me. 
 
 Also, sometimes I like to lift thousands of pounds for fun.
 
